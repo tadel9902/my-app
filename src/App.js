@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React AD
+          Learn React AD dumb
         </a>
       </header>
     </div>
